@@ -58,7 +58,7 @@ routes/
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/your-username/library-management-system-laravel.git
+git clone https://github.com/Ahyan3/library-management-system-laravel.git
 cd library-management-system-laravel
 ````
 
